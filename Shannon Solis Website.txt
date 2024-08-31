@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    <table border="1" width="100%" height="100%">
+        <tr>
+            <td>
+                <a href="https://www.stat.tamu.edu/">Statistics Department at TAMU</a>
+            </td>
+            <td>
+                <img src="your-picture.jpg" alt="Your Picture" width="100" height="100">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>I am currently pursuing a degree in Curriculum & Instruction at Texas A&M University.</li>
+                    <li>My academic journey has been enriching, filled with numerous projects and learning experiences.</li>
+                </ul>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
